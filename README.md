@@ -8,7 +8,7 @@ Build
 
 Simply clone the repository to your local file system by using the following command:
 
-git clone https://github.com/ZuInnoTe/hadoop-mapreduce-examples.git
+git clone git@github.com:RUiNtheExtinct/twitter-hadoop.git
 
 Change into the directory hadoop-mapreduce-examples and execute the following command:
 
